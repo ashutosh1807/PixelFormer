@@ -13,7 +13,7 @@ This is the official PyTorch implementation for WACV 2023 paper 'Attention Atten
 conda create -n pixelformer python=3.8
 conda activate pixelformer
 conda install pytorch=1.10.0 torchvision cudatoolkit=11.1
-pip install matplotlib, tqdm, tensorboardX, timm, mmcv
+pip install matplotlib tqdm tensorboardX timm mmcv
 ```
 
 
