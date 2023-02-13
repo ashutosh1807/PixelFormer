@@ -49,6 +49,23 @@ python pixelformer/eval.py configs/arguments_eval_kittieigen.txt
 ## Pretrained Models
 * You can download the pretrained models "nyu.pt" and "kitti.pt" from [here](https://drive.google.com/drive/folders/1Feo67jEbccqa-HojTHG7ljTXOW2yuX-X?usp=share_link).
 
+## Citation
+
+If you find our work useful in your research, please cite the following:
+```bibtex
+@InProceedings{Agarwal_2023_WACV,
+    author    = {Agarwal, Ashutosh and Arora, Chetan},
+    title     = {Attention Attention Everywhere: Monocular Depth Prediction With Skip Attention},
+    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+    month     = {January},
+    year      = {2023},
+    pages     = {5861-5870}
+}
+```
+
+## Contact
+For questions about our paper or code, please contact ([@ashutosh1807](https://github.com/ashutosh1807) or raise an issue on GitHub.
+
 
 
 ### Acknowledgements
